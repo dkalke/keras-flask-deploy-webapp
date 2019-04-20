@@ -1,3 +1,9 @@
 uploads/*.jpg
 uploads/*.png
 models/*.h5
+/models/ecgScratchEpoch2.hdf5
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/keras-flask-deploy-webapp/v15/.suo
+/.vs/VSWorkspaceState.json
+/data.txt
